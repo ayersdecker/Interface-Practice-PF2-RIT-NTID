@@ -1,0 +1,16 @@
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\bin\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).exe
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\bin\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).deps.json
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\bin\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).runtimeconfig.json
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\bin\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).runtimeconfig.dev.json
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\bin\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).dll
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\bin\Debug\net5.0\ref\COVIDVariations (Using Interface-Inheritance).dll
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\bin\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).pdb
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\obj\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).csproj.AssemblyReference.cache
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\obj\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\obj\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).AssemblyInfoInputs.cache
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\obj\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).AssemblyInfo.cs
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\obj\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).csproj.CoreCompileInputs.cache
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\obj\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).dll
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\obj\Debug\net5.0\ref\COVIDVariations (Using Interface-Inheritance).dll
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\obj\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).pdb
+C:\Users\draye\source\repos\COVIDVariations (Using Interface-Inheritance)\COVIDVariations (Using Interface-Inheritance)\obj\Debug\net5.0\COVIDVariations (Using Interface-Inheritance).genruntimeconfig.cache
