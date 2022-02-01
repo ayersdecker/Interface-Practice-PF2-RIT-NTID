@@ -1,9 +1,22 @@
 ﻿using System;
+//
+// Name: Decker Ayers
+// Course: NMAD 181.2
+// Date: 1/31/2022
+//
+// Assignment: Interface Classwork 
+// Caveats: Program meant to be simple
+//
+// 
+//
+//
+
 
 namespace COVIDVariations__Using_Interface_Inheritance_
 {
-    class Program
+    class Program // Program class: Houses all functions that are meant to be seen by compiler directly
     {
+
         static void Main(string[] args)
         {
             while (true)

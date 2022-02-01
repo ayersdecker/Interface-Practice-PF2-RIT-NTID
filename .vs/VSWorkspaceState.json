@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\COVIDVariations (Using Interface-Inheritance)"
   ],
-  "SelectedNode": "\\COVIDVariations (Using Interface-Inheritance).sln",
+  "SelectedNode": "\\COVIDVariations (Using Interface-Inheritance)\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
